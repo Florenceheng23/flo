@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel= "stylesheet" href="/style.css">
+        <title>Google</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
+    </head>
+
+    <body>
+        <link rel="stylesheet" href="style.css" />
+    <header>
+
+    <nav>
+        <ul class ="tete">
+
+    <a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%26ogbl%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin">Gmail</a>
+
+    <a href=https://www.google.fr/imghp?hl=en&ogbl>images</a>
+
+    <img src="/app.png">
+
+    <button type="button">Sign in</button>
+        </ul>
+    </nav>
+
+    </header>
+     </body>
+    </html>
+
+<section>
+    <ul>
+    <h1>Google</h1>
+    <div class ="search bar">
+        <input type="text">
+    </div>
+<div class ="button">
+    <ul>
+        <button type = "button">Google search </button>
+        <button type = "button" >I'm feeling lucky </button>
+    </ul>
+    <p>Google offered in: Francais</p>
+</div>
+    </ul>
+
+</div>
+</section>
+
+
+<div=>
+    <div class ="france"><P>France</P></div>
+    <nav>
+        
+    <ul>
+        <a href=#>About</a>
+        <a href=#>Advertising</a>
+        <a href=#>Business<a>
+        <a href=#>How search works</a>
+   </ul>
+
+  <ul>
+        <a href=#>Consumer Information</a>
+        <a href=#>Privacy</a>
+        <a href=#>Terms</a>
+        <a href=#>Settings</a>
+    </ul>
+    </nav>
+</div>
+</section>

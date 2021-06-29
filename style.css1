@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family:arial, sans-serif;
+}
+
+a{ 
+    margin: 5px ;
+    text-decoration: none;
+    color: black; }
+
+nav {
+    display: flex;
+    justify-content: space-between;}
+
+section {
+    display: flex;
+    justify-content: center
+   
+}
+
+h1{ font-weight:500px;
+     font-size;}
+
+
